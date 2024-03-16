@@ -1,3 +1,0 @@
-/home/ambj/Dropbox/dca0445/pdi/exemplos/filtroespacial/build/CMakeFiles/filtroespacial.dir
-/home/ambj/Dropbox/dca0445/pdi/exemplos/filtroespacial/build/CMakeFiles/edit_cache.dir
-/home/ambj/Dropbox/dca0445/pdi/exemplos/filtroespacial/build/CMakeFiles/rebuild_cache.dir
